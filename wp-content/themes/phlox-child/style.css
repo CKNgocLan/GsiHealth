@@ -1,0 +1,16 @@
+/*
+Theme Name:   Phlox Child Theme
+Theme URI: http://phlox.pro/
+Author: averta
+Author URI: http://www.averta.net
+Description: Phlox Theme Child
+Version: 1.0.0
+Text Domain: phlox
+Template: phlox
+*/
+
+@import url("../phlox/style.css");
+/* @font-face {
+  font-family: Bertholdr Mainzer Fraktur;
+  src: local("wp-content/themes/phlox-child/external-fonts/Bertholdr Mainzer Fraktur.ttf");
+} */
